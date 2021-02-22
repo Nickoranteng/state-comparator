@@ -1,3 +1,12 @@
+TEAM MEMBERS
+* Regina Tettey
+* Vera Song
+* Jannette Amedome
+* Nicholas Koranteng
+* Sylvester Okeleke
+* Meakin Marange
+
+
 # Guidelines for Project 1
 
 This document contains guidelines, requirements, and suggestions for Project 1.
