@@ -56,6 +56,9 @@ After you've analyzed your data to your satisfaction, you'll put together a pres
 # Programming Languages
 
 Python
+
 Excel
-Api
+
+API
+
 Matplotlib
