@@ -1,4 +1,5 @@
 
+
 # TEAM MEMBERS
 
 Regina Tettey
@@ -62,3 +63,14 @@ Excel
 API
 
 Matplotlib
+
+
+![barchart_2019](https://user-images.githubusercontent.com/71161293/110711739-0e69e880-81ce-11eb-8a12-0e647986f136.png)
+
+![correlations_1997_2019](https://user-images.githubusercontent.com/71161293/110711886-4709c200-81ce-11eb-9075-1d5002c57c1a.png)
+
+![Public Transportation](https://user-images.githubusercontent.com/71161293/110711906-4f61fd00-81ce-11eb-8409-61e4dd45e039.png)
+
+![outlier states](https://user-images.githubusercontent.com/71161293/110711926-5ab52880-81ce-11eb-9d76-7abd0a1cb42d.png)
+
+
