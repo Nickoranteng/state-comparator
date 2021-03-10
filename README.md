@@ -18,8 +18,6 @@ In other words, working in groups allows you to work smart and dream big. Take a
 Project Proposal
 Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent scope creep.
 
-Write this as a brief summary of your interests and intent, including:
-
 The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
 
 The kinds of questions you'll be asking of that data
@@ -30,26 +28,6 @@ In other words, write down what kind of data you plan to work with, and what kin
 
 Our project is to uncover patterns in criminal activity around Los Angeles. We'll examine relationships between types of crime and location; crime rates and times of day; trends in crime rates over the course of the year; and related questions, as the data admits.
 
-Finding Data
-Once your group has written an outline, it's time to start hunting for data. You are free to use data from any source, but we recommend the following curated sources of high-quality data:
-
-data.world
-
-Kaggle
-
-Data.gov
-
-Public APIs
-
-Awesome-APIs List
-
-Medium APIs List
-
-DC Open Data Portal
-
-Chances are you'll have to update your Project Outline as you explore the available data. This is fine—adjustments like this are part of the process! Just make sure everyone in the group is up-to-speed on the goals of the project as you make changes.
-
-Make sure that your data is not too large for local analysis. Big Data datasets are difficult to manage locally, so consider a subset of that data or a different dataset altogether.
 
 Data Cleanup & Analysis
 With data in hand, it's time to tackle development and analysis. This is where the fun starts!
@@ -66,9 +44,10 @@ We recommend focusing your analysis on techniques such as aggregation, correlati
 
 Finally, be sure that your projects meet the technical requirements.
 
-Presentation
 After you've analyzed your data to your satisfaction, you'll put together a presentation to show off your work, explain your process, and discuss your conclusions.
 
-This presentation will be delivered as a slideshow, and should give your classmates and instructional staff an overview of your work. PowerPoint, Keynote, and Google Slides are all acceptable for building slides.
-
-As long as your slides meet the presentation requirements, you are free to structure the presentation however you wish, but students are often successful with the format laid out in the presentation guidelines.
+Programming Languages
+Python
+Excel
+Api
+Matplotlib
