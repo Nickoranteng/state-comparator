@@ -1,13 +1,20 @@
-README.md
-TEAM MEMBERS
+
+# TEAM MEMBERS
 
 Regina Tettey
+
 Vera Song
+
 Jannette Amedome
+
 Nicholas Koranteng
+
 Sylvester Okeleke
+
 Meakin Marange
-Guidelines for Project 1
+
+# Guidelines for Project 1
+
 This document contains guidelines, requirements, and suggestions for Project 1.
 
 Team Effort
@@ -15,7 +22,7 @@ Before anything, remember that Projects are a group effort: Working closely with
 
 In other words, working in groups allows you to work smart and dream big. Take advantage of it!
 
-Project Proposal
+# Project Proposal
 Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent scope creep.
 
 The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
@@ -29,7 +36,7 @@ In other words, write down what kind of data you plan to work with, and what kin
 Our project is to uncover patterns in criminal activity around Los Angeles. We'll examine relationships between types of crime and location; crime rates and times of day; trends in crime rates over the course of the year; and related questions, as the data admits.
 
 
-Data Cleanup & Analysis
+# Data Cleanup & Analysis
 With data in hand, it's time to tackle development and analysis. This is where the fun starts!
 
 Inevitably, the analysis process can be broken into two broad phases: Exploration & Cleanup and Analysis proper.
@@ -46,7 +53,8 @@ Finally, be sure that your projects meet the technical requirements.
 
 After you've analyzed your data to your satisfaction, you'll put together a presentation to show off your work, explain your process, and discuss your conclusions.
 
-Programming Languages
+# Programming Languages
+
 Python
 Excel
 Api
