@@ -2,17 +2,17 @@
 
 # TEAM MEMBERS
 
-Regina Tettey
+* Regina Tettey
 
-Vera Song
+* Vera Song
 
-Jannette Amedome
+* Jannette Amedome
 
-Nicholas Koranteng
+* Nicholas Koranteng
 
-Sylvester Okeleke
+* Sylvester Okeleke
 
-Meakin Marange
+* Meakin Marange
 
 # Guidelines for Project 1
 
