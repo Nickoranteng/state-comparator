@@ -14,7 +14,7 @@
 * Meakin Marange https://github.com/mmarange
 
 # User Story 
-* To use Data analytics tools, in particular, pandas, matplotlib and others to help consumers visually compare states in the following categeries
+To use Data analytics tools, in particular, pandas, matplotlib and others to help consumers visually compare states in the following categeries
 
 a) Personal Income and personal expenditure per capita in two states
 
