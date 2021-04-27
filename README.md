@@ -29,7 +29,7 @@ d) Public transport use and personal expenditure on public transport
 * Allow users to input their choice of States to compare 
 * Users then choose the category to compare
 * present results in Graphs
-* Use statistics to calculate the R-squared value and forcast future results
+* Use statistics to calculate the R-square value and forcast future results
 
 
 
