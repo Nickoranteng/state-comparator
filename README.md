@@ -14,11 +14,11 @@
 * Meakin Marange https://github.com/mmarange
 
 # User Story 
-To use Data analytics tools, in particular, pandas, matplotlib and others to help consumers visually compare states in the following categeries
+To use Data analytics tools, in particular, pandas, matplotlib and others to help consumers visually compare States in the following categeries
 
 a) Personal Income and personal expenditure per capita in two states
 
-b) Finding outstanding states since 1997
+b) Finding outstanding States since 1997
 
 c) Project average personal income and expenditure
 
@@ -41,7 +41,7 @@ d) Public transport use and personal expenditure on public transport
 # Data Source
 * Bureau of Economic Analysis https://www.bea.gov
 
-
+# Screen Shots
 
 ![barchart_2019](https://user-images.githubusercontent.com/71161293/110711739-0e69e880-81ce-11eb-8a12-0e647986f136.png)
 
