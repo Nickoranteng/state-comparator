@@ -14,7 +14,15 @@
 * Meakin Marange https://github.com/mmarange
 
 # User Story 
-* comparing States for better decision making for relocation
+* To use Data analytics tools, in particular, pandas, matplotlib and others to help consumers visually compare states in the following categeries
+
+a) Personal Income and personal expenditure per capita in two states
+
+b) Finding outstanding states since 1997
+
+c) Project average personal income and expenditure
+
+d) Public transport use and personal expenditure on public transport
 
 
 
@@ -22,15 +30,16 @@
 
 
 # APIs Used
-
+* API - The United States Census Bureau
+* 
 # Programming Languages
 
 Python Codes to analyse the data were written in python jupyter notebook
 
 Excel We used excel to clean up data to conform to our standards
 
-API
-
+# Data Source
+* Bureau of Economic Analysis https://www.bea.gov
 
 
 
