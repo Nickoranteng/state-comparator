@@ -34,9 +34,9 @@ d) Public transport use and personal expenditure on public transport
  
 # Programming Languages
 
-Python Codes to analyse the data were written in python jupyter notebook
+* Python --Codes to analyse the data were written in python jupyter notebook
 
-Excel We used excel to clean up data to conform to our standards
+* Excel --We used excel to clean up data to conform to our standards
 
 # Data Source
 * Bureau of Economic Analysis https://www.bea.gov
