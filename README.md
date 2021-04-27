@@ -25,7 +25,10 @@ c) Project average personal income and expenditure
 d) Public transport use and personal expenditure on public transport
 
 
-
+# Project Description
+* Allow users to input their choice of States to compare 
+* Users then choose the category to compare
+* present results in Graphs
 
 
 
