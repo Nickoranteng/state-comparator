@@ -1,6 +1,5 @@
 
-
-# TEAM MEMBERS
+# Developers
 
 * Regina Tettey
 
@@ -14,14 +13,8 @@
 
 * Meakin Marange
 
-# Guidelines for Project 1
+# User Story
 
-This document contains guidelines, requirements, and suggestions for Project 1.
-
-Team Effort
-Before anything, remember that Projects are a group effort: Working closely with your teammates is a requirement. This both helps teach real-world collaborative workflows, and enables you to tackle more difficult problems than you'd be able to working alone.
-
-In other words, working in groups allows you to work smart and dream big. Take advantage of it!
 
 # Project Proposal
 Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent scope creep.
@@ -56,9 +49,9 @@ After you've analyzed your data to your satisfaction, you'll put together a pres
 
 # Programming Languages
 
-Python
+Python 
 
-Excel
+Excel We used excel to clean up data to conform to our standards
 
 API
 
